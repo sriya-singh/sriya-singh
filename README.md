@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Backend and Cloud Services.
 - 👯 I’m looking to collaborate on projects that make a difference! Open to learning and contributing across domains. Let’s build something amazing together!
 
-<br>
+
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sriyasingh16004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sriyasingh16004" height="30" width="40" /></a>
